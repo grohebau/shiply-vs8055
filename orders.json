@@ -1,6 +1,6 @@
 {
   "S81921": {
-    "status": "Preparation for transport",
+    "status": "In transit",
     "statusClass": "pending",
     "sender": "Steffen Meier, Quintinsstraße 6, 55131 Mainz, Germany",
     "receiver": "Kjell Håkon Stueland, Staupevegen 123, 5554 Valevåg, Norway",
@@ -26,12 +26,12 @@
       }
     ],
     "orderDate": "17.12.2025",
-    "deliveryDate": "23.12.2025",
+    "deliveryDate": "29.12.2025, 15:30 hour",
     "pickup": {
-      "street": "",
-      "postal_code": "",
-      "city": "",
-      "country": "",
+      "street": "Neuengammer Hinterdeich 38",
+      "postal_code": "21037",
+      "city": "Hamburg",
+      "country": "Germany",
       "lat": "",
       "lng": ""
     },
